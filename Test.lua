@@ -1,3 +1,10 @@
+-- THIS FILE IS FOR BRAIN STORMING
+
+-- IGNORE EVERYTHING IN IT
+
+
+
+
 -- No
 function why()
   print('yes')
@@ -9,3 +16,5 @@ function kys()
 kys()
 
 -- YESSSS
+
+function
