@@ -17,4 +17,5 @@ kys()
 
 -- YESSSS
 
-function
+function no()
+      why()
